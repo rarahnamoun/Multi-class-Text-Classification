@@ -9,7 +9,7 @@
 
 This project presents a novel approach to handling imbalanced datasets in text classification tasks by introducing a modified version of the Naive Bayes classifier. Our method incorporates class probability adjustments and feature probability modifications to better handle class imbalance issues commonly found in real-world datasets.
 
-<img src="/api/placeholder/800/400" alt="Project Architecture Overview" />
+
 
 ## 🔍 Key Features
 
