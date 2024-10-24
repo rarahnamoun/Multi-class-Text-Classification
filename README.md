@@ -56,7 +56,7 @@ my modified approach showed improvements in handling imbalanced datasets:
 - Better handling of minority classes
 - More stable probability estimates
 
-<img src="/api/placeholder/800/300" alt="Results Comparison" />
+
 
 ## 🗂️ Project Structure
 
@@ -105,22 +105,19 @@ We compared our approach with:
 - LSTM-based classifiers
 - BERT distillation methods
 
-<img src="/api/placeholder/800/350" alt="Comparative Analysis" />
+
 
 ## 🔧 Installation & Usage
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/custom-bayes-classifier.git
-
-# Install dependencies
-pip install -r requirements.txt
+git clone https://github.com/rarahnamoun/Multi-class-Text-Classification.git
 
 # Run the notebooks
-jupyter notebook src/notebooks/
+jupyter notebook src
 ```
 
 ## 📖 Documentation
 
 - [Full Technical Report](./docs/report_part0.pdf)
-- [Methodology Documentation](./docs/methodology.pdf)
+- [Methodology Documentation](./docs/report_part1.pdf)
