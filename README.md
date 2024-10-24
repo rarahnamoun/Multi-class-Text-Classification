@@ -1,1 +1,1 @@
-# Multi-class-Text-Classification
+# Multi-Class-Text-Classification
